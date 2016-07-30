@@ -1,4 +1,6 @@
 highlighter:rouge 
-url: https://cnuonline.github.io 
+url: "https://cnuonline.github.io"
+name: Srinivasulu Kopparapo
+description: My Adventures in Coding,Automation,Product Development
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
