@@ -5,7 +5,7 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github:cnuonline 
+  github:  cnuonline 
   #bitbucket: philipj
   #hacker_news: swanson
   #stackexchange: 348619
@@ -15,12 +15,12 @@ social:
   #tumblr: animalygifs
   linkedin:srinivasulukcloudcomputing 
   #gplus: 110552447039675960964
-  #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
+  gravatar:  a0eaa1d4e3b0aacf96a9a1265b51825e 
   #flickr: johndoe
 
 # "Hi, I'm _______"
-name:Srinivasulu Kopparapo 
-email:cnuonline@gmail.com 
+name:  Srinivasulu Kopparapo 
+email:  cnuonline@gmail.com 
 tagline: "weak opinions, strongly held"
 
 # Google Analytics key, leave blank to ignore
