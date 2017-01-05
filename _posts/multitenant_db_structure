@@ -1,0 +1,68 @@
+
+
+
+User Table:
+
+ - userId (alphanumerics)
+ - emailId (compositeKey) (alphanumerics)
+ - companyId (compositeKey)(alphanumerics) (foreignKey)
+ - mobileNbr (compositeKey)(alphanumerics)
+ - password (sha1)(alphanumerics)
+ - confirmed (char)
+ - createdDate
+ - modifiedDate
+ - createdBy
+ - address1
+ - address2
+ - city
+ - state
+ - pin
+ - isActive
+ - statusDescription
+ - messageId (Message to be displayed) (foreign Key)
+ - roleId (foreignKey) 
+ 
+ Company or Organization
+ 
+ - companyId
+ - CompanyName
+ - createdBy
+ - isPaid (Char) Y/N
+ - planId (foreign Key)
+ - planExpiry
+ - messageId(Message to be displayed) (foreign Key)
+ 
+
+Plan or Subscription
+
+ - planId (primary key)
+ - planName
+ - planCost (int)
+ - planCurrency
+ - planDescription
+ - planUserLimits (int)
+ 
+
+Message
+
+ - messageId(primary key)
+ - messageShort Description (300 chars)
+ - message Description(5000 chars)
+ - createdBy
+ - expiredAt
+ - messageType (Security, Priority, Wishes, Reminders,TODO)
+
+Role Type
+
+> roleId(Primary)
+> roleName (SuperAdmin, Admin, User, visitor)
+> roleDescription
+> accessCode (5,10,20,25)
+
+Access Type ( Many to Many)
+
+> roleId (Composite key)
+> companyId(Composite key)
+> userId(Composite key)
+> createdAt
+> modifiedAt
