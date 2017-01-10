@@ -1,6 +1,6 @@
-# Lagom
+Welcome to Srini's Blog .
+More info on https://cnuonline.github.io
 
-
-#Extracted lovingly from [http://mdswanson.com][mds] for your enjoyment!
+<!-- http://mdswanson.com][mds] for your enjoyment! -->
 
 
