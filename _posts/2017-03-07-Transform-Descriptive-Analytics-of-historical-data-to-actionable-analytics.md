@@ -1,5 +1,5 @@
 
-Transform Descriptive Analytics of historical data into actionable analytics
+What happened ? -->Descriptive Analytics.  Why did it happened ? Diagnostic Analytics or Actionable Analytics
 
 There are many more  data analytics tools in the market (Public and private) which helps you to acquire the data from various sources (Web,Mobile, Salesforce, Sharepoint) . Generating a very nice dashboard on historical data by doing various queries , combining multiple datasources is very much motivating and everyone loves.
 
@@ -27,6 +27,3 @@ All this can happen , if we know the visitors history of events on the site and 
 
 Definitely , e-commerce business will require the private data analytics which can have full control over the data. Among them, [CustomerEngagePro](https://www.customerengagepro.com) is one of the cost-effective private data analytics to reach the goals
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
