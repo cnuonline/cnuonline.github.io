@@ -25,5 +25,5 @@ Let's take an example of e-commerce data again.  Given a chance, everyone wants 
 Apart from the immediate discounts on every cart abandonment, visitors need a deeper education on comparing the products, new product launches, upcoming product launches, bundle product savings etc.,
 All this can happen , if we know the visitors history of events on the site and run a custom campaign for cart dropouts, product info, upcoming products etc., This will be more meaningful of engaging the visitors/customers.  Without knowing, all the e-commerce businesses can run on the event driven actionable analytics. 
 
-Definitely, e-commerce business will require private data analytics which can give the business a full control over the data. Among them, [CustomerEngagePro](https://www.customerengagepro.com) offers one of the cost-effective private data analytics solution to reach the goals.
+Definitely, e-commerce business will require private data analytics which can give the business a full control over the data. Among the existing private data analytics Solutions, [CustomerEngagePro](https://www.customerengagepro.com) offers one of the cost-effective private data analytics solution to improve conversions.
 
