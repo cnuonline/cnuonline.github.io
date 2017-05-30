@@ -1,5 +1,5 @@
 
-How data Driven Approach turns Prescriptive analytics into Predictive analytics road map. 
+> How data Driven Approach turns Prescriptive analytics into Predictive analytics road map. 
 
 Current market tools & most widely industry accepted analytics are focused on data capturing . (Google Analytics, Adobe Analytics (Omniture) ...) . They are good at viewing the basic reports based on the device, OS, location, custom tagged report.   Any actions or event triggers based on the sequence of events is going to be cumbersome job. At the end,  marketing team needs close the loop of sending customized email/sms/pushnotification to engage the end customer.  These descriptive analytics will always will be irrelevant within few months and needs to be upgraded.  
 
@@ -31,4 +31,3 @@ Now divide your sales report not only as product, but also as a type of product.
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
