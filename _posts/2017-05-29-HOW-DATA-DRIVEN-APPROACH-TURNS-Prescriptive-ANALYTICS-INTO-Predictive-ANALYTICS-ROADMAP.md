@@ -33,4 +33,10 @@ Now divide your sales report not only as product, but also as a type of product.
 ![Sample calculation for finding the product confidence](https://github.com/cnuonline/cnuonline.github.io/blob/master/product_category_confidence_calculation.PNG?raw=true)
 
 
+> Maximize the revenue opportunites using data driven confidence factors
+
+ Above table shows us, confidence on each product type's based on the return policy , better margins . Now it's time to focus on increasing the investment on specific type of products rather than products which are on high traction & associated with high product returns. Now , remarketing also not need to be focussed on the type of product instead of all products.
+Success in Remarketing, digital marketing can happen only having full control of analytics data. Choose the options which are supporting private analytics and vendor free lock in . 
+
+ Based on the previous architectural decisions on a complete marketing automation , we are able to leverage  [CustomerEngagePro](https://www.customerengagepro.com) product hosted in our private cloud. One good thing was, No-lock's between the hosting companies and able to generate customized marketing events.
 
