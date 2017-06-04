@@ -1,4 +1,0 @@
-
-
-The Netflix API is the “front door” to the Netflix ecosystem of microservices. 
-As requests come from devices, the API provides the logic of composing calls to all services that are required to construct a response. It gathers whatever information it needs from the backend services, in whatever order needed, formats and filters the data as necessary, and returns the response. So, at its core, the Netflix API is an orchestration service that exposes coarse grained APIs by composing fined grained functionality provided by the microservices.
