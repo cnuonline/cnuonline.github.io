@@ -45,5 +45,3 @@ Finally , it is time to change your questions.
  
 
 Next topic will be , how do you move any application to Container ready ? What should be placed in container , is it code or config or stack ?
-
-> Written with [StackEdit](https://stackedit.io/).
