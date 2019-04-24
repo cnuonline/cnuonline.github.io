@@ -1,4 +1,4 @@
-﻿**ReachJS  vs AngularJS Comparison - Which one to choose ? **
+**ReachJS  vs AngularJS Comparison - Which one to choose ? **
 
 Always tough to choose , which UI framework is good for Digital Web App Development ? Most of the decisions are being taken on the first page of Google search results. Most of the issues will be realised at 50% of the work stage.
 
@@ -11,7 +11,7 @@ Two questions to be answered ?
 
 What was answer to the first question ?
 If yes, do you think the logic can be moved to backend ? If yes, you can choose Angular js or backbone js or polymer js.
-If no,  what was stack of your backend ? Built with Java or DotNot or Node JS ? what was the roadmap on your backend? If the roadmap is to move into NodeJS backend, i strongly recommend to have React JS framework. For other backend stack, you need to move back to API gateway and it should be language agnostics for implementing the API with any language.  Make use of NodeJS with ReactJS reusable codebase.
+If no,  what was stack of your backend ? Built with Java or DotNot or Node JS ? what was the roadmap on your backend? If the roadmap is to move into NodeJS backend, i strongly recommend to have React JS framework. For other backend stack, you need to move back to API gateway and it should be language agnostics for implementing the API with any language.  Make use of [NodeJS](https://nodejs.org) with [ReactJS](https://angularjs.org/) reusable codebase.
 
 What was answer to the Second question ? (Do you have similar experience for Mobile app and Desktop web with business logic tied up at the front end ?)
 If yes,  make use of reactJS which works on Mobile app and Desktop app with shared business logic.  Of course,  stack should be NodeJS.  
@@ -21,7 +21,7 @@ Both the frameworks are small in size and Component based Architecture. Both are
 
 Miscellaneous Comparison.
 
-| Feature | ReactJS | Angular JS |
+| Feature | [ReactJS](https://reactjs.org/) | [Angular JS](https://angularjs.org/) |
 |-- |--|--|
 | Programming Language | JavaScript | TypeScript |
 |Learning Curve|Moderate| Steep|
