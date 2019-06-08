@@ -1,7 +1,9 @@
 Let's Start visualization of Multi Tenant Users.
 Quick Overview of Multi Tenancy models and different styles of implementations of Multi tenant models
 
-![MultiTenant Models](https://cnuonline.github.io/MultiTenant_models.png)
+![MultiTenant_SeperateShared_application_Seperate_Database](https://cnuonline.github.io/MultiTenant_SeperateShared_application_Seperate_Database.png)
+![MultiTenant_OneShared_application_seperate_database](https://cnuonline.github.io/MultiTenant_OneShared_application_seperate_database.png)
+![MultiTenant_OneShared_application_OneShare_Database](https://cnuonline.github.io/MultiTenant_OneShared_application_OneShare_Database.png)
 
 For each tenant, we can separate login's using 
 
