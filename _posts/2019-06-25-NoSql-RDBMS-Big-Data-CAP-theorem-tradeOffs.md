@@ -46,4 +46,4 @@ Every DB which is coming up in the market wants to achieve all the three challen
 
 One of the good db in the market which achieved rare feat by having proper tradeoff's is RethinkDB . By the core, it was able to do with reactive based approach and full support for Push kind of needs. eg: Whatsapp requires the push kind of needs for alerting to the members & groups . Like 1:1 , 1: Many needs.
 You can go through the architecture below.
-https://rethinkdb.com/docs/architecture/
+[https://rethinkdb.com/docs/architecture/](https://rethinkdb.com/docs/architecture/)
