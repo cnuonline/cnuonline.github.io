@@ -34,7 +34,7 @@ Apart from that, few of the frequently used tools with Freemium model and ready 
  - Jenkins - Continuous Deployment
  - CRM setup - [https://www.opalcrm.com](https://www.opalcrm.com/)
  - Ticket Management System - [https://OSTicket.com](https://osticket.com/)
- - Project Management - JIRA stories - https://bitbucket.org
+ - Project Management - JIRA stories - https://bitbucket.org 
 
 **Tools for discovery, analysis and building blocks**
 - SOA - API Design YAML Designing tool for Restful Services [http://openapi.design](http://openapi.design)
@@ -45,6 +45,6 @@ Apart from that, few of the frequently used tools with Freemium model and ready 
 - Virtual Private Machine  - VPS - [https://OVH.com](https://OVH.com)
 - Microservices Gateway - [https://Konghq.com](https://Konghq.com) 
 	- Options to install OAuth 2.0 plugin for managing the list of Consumers/Applications to access the data.
-- Campaign Management with workflow - https://MailChimp.com
+- Campaign Management with workflow - https://MailChimp.com https://trello.com
 
 List will be growing and try keep them updated
