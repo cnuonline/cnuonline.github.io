@@ -1,4 +1,4 @@
-﻿
+
 One of the ideal thought for any organisations is "Do we need Disaster Recover DataCenter/Region ? " . Answer is obviously YES.  
 Next question will be  "Do we need to spend similar pricing for Disaster Recovery also ?"  For now,  answer is YES.
 
