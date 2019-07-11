@@ -8,29 +8,29 @@ layout: default
   <div id="share">
     <h5>Share the Tech Learn!</h5>
 
-    <ul>
-        <li class="linkedin">
+    
+        <div class="linkedin">
             <a href="http://www.linkedin.com/shareArticle?url={{ site.twitter_username }}&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&title={{ page.title | default:"" | uri_escape}}" target="_blank">
                 <i class="fa fa-linkedin-square"></i>
             </a>
-        </li>
-        <li class="hn">
+        </div>
+        <div class="hn">
             <a href="http://news.ycombinator.com/submitlink?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&t={{ page.title | default:"" | uri_escape}}" target="_blank">
                 <i class="fa fa-hacker-news"></i>
             </a>
-        </li>
-        <li class="twitter">
+        </div>
+        <div class="twitter">
             <a href="https://twitter.com/intent/tweet?via={{ site.twitter_username }}&url={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&text={{ page.title | default:"" | uri_escape}}" target="_blank">
               <i class="fa fa-twitter-square"></i>
             </a>
-        </li>
-        <li class="facebook">
+        </div>
+        <div class="facebook">
             <a href="http://www.facebook.com/sharer.php?u={{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url | uri_escape}}&t={{ page.title | default:"" | uri_escape}}" target="_blank">
                 <i class="fa fa-facebook-square"></i>
             </a>
-        </li>
+        </div>
         
-    </ul>
+ 
 </div>
 
 <a target="_self" href="/">
