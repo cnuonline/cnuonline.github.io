@@ -332,4 +332,31 @@
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
 
+#share {
+    margin: 50px 0;
+
+    h2 {
+        font-size: 1.2em;
+    }
+
+    ul {
+        list-style: none;
+
+        li {
+            display: inline;
+
+            a {
+                &:hover {
+                    text-decoration: none;
+                }
+
+                svg {
+                    width: 50px;
+                    height: 50px;
+                    fill: #333;
+                }
+            }
+        }
+    }
+}
 
