@@ -1,12 +1,12 @@
 
-One of the ideal thought for any organisations is "Do we need Disaster Recover DataCenter/Region ? " . Answer is obviously YES.  
-Next question will be  "Do we need to spend similar pricing for Disaster Recovery also ?"  For now,  answer is YES.
+One of the ideal thought for any organisations is **"Do we need Disaster Recover DataCenter/Region ? "** . Answer is obviously YES.  
+Next question will be  **"Do we need to spend similar pricing for Disaster Recovery also ?"**  For now,  answer is YES.
 
 is their anyway we can reduce the Disaster Recovery Data center price? (without sacrificing the performance, Non functional requirements )
 
-Here are my thoughts from eagle view.
+Here are my thoughts from eagle view. 
 ![enter image description here](https://github.com/cnuonline/cnuonline.github.io/raw/master/assets/Zone%20wise%20deployment%20and%20Data%20center.png)
-Diagram showing the Deployment is happening away from the hosted regions. Neither of Production or DR Region
+Diagram showing the Deployment Managers integrated with Terraform connected to the hosting regions. Deployment managers need not belong to Production or DR Region
 
 **Assumptions**: Dont prefer the Custom hosting vendor stack of any hosting vendor , machines, networking. Try to have control on your own VM's, Routers, networking, storages. ( Example : AWS EC2 machine image, Dynamo DB, Route 53..) Instead take CentOS/Ubuntu , Apache/NGINX/HA proxy, mysql/mongodb ...
 
