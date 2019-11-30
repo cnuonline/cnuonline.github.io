@@ -1,0 +1,196 @@
+<<row>>1|Abrasive|A<</row>>
+<<row>>2|Accessories|A<</row>>
+<<row>>3|Agricultural Product|A<</row>>
+<<row>>4|Agro|A<</row>>
+<<row>>5|Agrochemicals|A<</row>>
+<<row>>6|Air Freight Couriers|A<</row>>
+<<row>>7|Air-conditioners|A<</row>>
+<<row>>8|Airlines|A<</row>>
+<<row>>9|Aluminium|A<</row>>
+<<row>>10|Ancillaries|A<</row>>
+<<row>>11|Application Software|A<</row>>
+<<row>>12|Aquaculture|A<</row>>
+<<row>>13|Auto Accessories|A<</row>>
+<<row>>14|Auto Ancillary|A<</row>>
+<<row>>15|Auto Components|A<</row>>
+<<row>>16|Auto Parts & Equip|A<</row>>
+<<row>>17|Automobile Manufacturers|A<</row>>
+<<row>>18|Automobiles|A<</row>>
+<<row>>19|Automotive Glass|A<</row>>
+<<row>>20|Banks|A<</row>>
+<<row>>21|Beverages|A<</row>>
+<<row>>22|Bio Tech|A<</row>>
+<<row>>23|Bonds|A<</row>>
+<<row>>24|Breweries|A<</row>>
+<<row>>25|Broadcasting|A<</row>>
+<<row>>26|Cables|A<</row>>
+<<row>>27|Call Money|A<</row>>
+<<row>>28|Capital Goods|A<</row>>
+<<row>>29|Car Manufacturers|A<</row>>
+<<row>>30|Cash|A<</row>>
+<<row>>31|Casting|A<</row>>
+<<row>>32|Castings/Forgings|A<</row>>
+<<row>>33|Cement|A<</row>>
+<<row>>34|Ceramic Products|A<</row>>
+<<row>>35|Chemicals & Fertilizers|A<</row>>
+<<row>>36|Cigarette|A<</row>>
+<<row>>37|Commercial Paper|A<</row>>
+<<row>>38|Communication|A<</row>>
+<<row>>39|Compressors|A<</row>>
+<<row>>40|Computer Hardware|A<</row>>
+<<row>>41|Computer Software|A<</row>>
+<<row>>42|Computer Storage|A<</row>>
+<<row>>43|Computer Training|A<</row>>
+<<row>>44|Conglomerate|A<</row>>
+<<row>>45|Construction Projects|A<</row>>
+<<row>>46|Consumer Durables|A<</row>>
+<<row>>47|Consumer Non Durables|A<</row>>
+<<row>>48|Container Packaging|A<</row>>
+<<row>>49|Core|A<</row>>
+<<row>>50|Corporate Sector|A<</row>>
+<<row>>51|Courier|A<</row>>
+<<row>>52|Current Assets|A<</row>>
+<<row>>53|Cyclicals|A<</row>>
+<<row>>54|Data Storage|A<</row>>
+<<row>>55|Debt|A<</row>>
+<<row>>56|Derivatives|A<</row>>
+<<row>>57|Detergents|A<</row>>
+<<row>>58|Diesel Engines|A<</row>>
+<<row>>59|Distributors|A<</row>>
+<<row>>60|Diversified|A<</row>>
+<<row>>61|Diversified Chemicals|A<</row>>
+<<row>>62|Diversified Comm Serv|A<</row>>
+<<row>>63|Diversified Fin Serv|A<</row>>
+<<row>>64|Diversified Financials|A<</row>>
+<<row>>65|Diversified Metals|A<</row>>
+<<row>>66|Diversified Telecom|A<</row>>
+<<row>>67|Dyes & Chemicals|A<</row>>
+<<row>>68|Electric Utilities|A<</row>>
+<<row>>69|Electricals|A<</row>>
+<<row>>70|Electricity Generation|A<</row>>
+<<row>>71|Electrodes|A<</row>>
+<<row>>72|Electronic Equip|A<</row>>
+<<row>>73|Electronics|A<</row>>
+<<row>>74|Energy|A<</row>>
+<<row>>75|Engines|A<</row>>
+<<row>>76|Entertainment|A<</row>>
+<<row>>77|Equipments|A<</row>>
+<<row>>78|Equities|A<</row>>
+<<row>>79|Fabrics & Garments|A<</row>>
+<<row>>80|Fastener|A<</row>>
+<<row>>81|Fertilizers|A<</row>>
+<<row>>82|Fibres/Blended|A<</row>>
+<<row>>83|Film Prod. Dist.|A<</row>>
+<<row>>84|Finance|A<</row>>
+<<row>>85|Financial Services|A<</row>>
+<<row>>86|Deposits|A<</row>>
+<<row>>87|FMCG|A<</row>>
+<<row>>88|Food Products|A<</row>>
+<<row>>89|Footwear|A<</row>>
+<<row>>90|For Gings|A<</row>>
+<<row>>91|Oil/Gas|A<</row>>
+<<row>>92|Govt. Securities|A<</row>>
+<<row>>93|Hardware|A<</row>>
+<<row>>94|Health Care|A<</row>>
+<<row>>95|Highways & Rail Tracks|A<</row>>
+<<row>>96|Homebuilding|A<</row>>
+<<row>>97|Hospitality|A<</row>>
+<<row>>98|Hotel|A<</row>>
+<<row>>99|Household Products|A<</row>>
+<<row>>100|Housewares & Specialities|A<</row>>
+<<row>>101|Housing & Others|A<</row>>
+<<row>>102|I T Services|A<</row>>
+<<row>>103|Industrial Capital Goods|A<</row>>
+<<row>>104|Industrial Products|A<</row>>
+<<row>>105|Infotech|A<</row>>
+<<row>>106|Infrastructure|A<</row>>
+<<row>>107|Institution Others|A<</row>>
+<<row>>108|Integrated Oil & Gas|A<</row>>
+<<row>>109|Integrated Telecom|A<</row>>
+<<row>>110|Internet Service Provider|A<</row>>
+<<row>>111|Investment Co.|A<</row>>
+<<row>>112|Iron|A<</row>>
+<<row>>113|Lease and Hire Purchase|A<</row>>
+<<row>>114|Leather|A<</row>>
+<<row>>115|Leisure Products|A<</row>>
+<<row>>116|Life Sciences|A<</row>>
+<<row>>117|Lifestyle|A<</row>>
+<<row>>118|Lighting|A<</row>>
+<<row>>119|Logistics|A<</row>>
+<<row>>120|Lotteries|A<</row>>
+<<row>>121|Lubricants|A<</row>>
+<<row>>122|Machinery|A<</row>>
+<<row>>123|Manufacturing|A<</row>>
+<<row>>124|Marine|A<</row>>
+<<row>>125|Marketing|A<</row>>
+<<row>>126|Materials|A<</row>>
+<<row>>127|Media|A<</row>>
+<<row>>128|Metals|A<</row>>
+<<row>>129|Mineral|A<</row>>
+<<row>>130|Mining|A<</row>>
+<<row>>131|Money Market|A<</row>>
+<<row>>132|Motorcycle|A<</row>>
+<<row>>133|Motors|A<</row>>
+<<row>>134|Movies & Entertainment|A<</row>>
+<<row>>135|Multimedia|A<</row>>
+<<row>>136|Mutual Funds Units|A<</row>>
+<<row>>137|NCD/Bonds|A<</row>>
+<<row>>138|Net Receivable/Payable|A<</row>>
+<<row>>139|Nifty|A<</row>>
+<<row>>140|Non-Ferrous Metals|A<</row>>
+<<row>>141|Office Serv & Supplies|A<</row>>
+<<row>>142|Oil/Gas|A<</row>>
+<<row>>143|Options|A<</row>>
+<<row>>144|Packaging|A<</row>>
+<<row>>145|Paints|A<</row>>
+<<row>>146|Paper|A<</row>>
+<<row>>147|Personal Products|A<</row>>
+<<row>>148|Pesticides|A<</row>>
+<<row>>149|Petrochemicals|A<</row>>
+<<row>>150|Petroleum|A<</row>>
+<<row>>151|Pharma / Biochemicals|A<</row>>
+<<row>>152|Photographics|A<</row>>
+<<row>>153|Plastic & Plast Prod.|A<</row>>
+<<row>>154|Power Equip|A<</row>>
+<<row>>155|Power Generation|A<</row>>
+<<row>>156|Printing, Publishing & Stationery|A<</row>>
+<<row>>157|Processing|A<</row>>
+<<row>>158|Public Sector Undertaking|A<</row>>
+<<row>>159|Publishing|A<</row>>
+<<row>>160|Railroads|A<</row>>
+<<row>>161|Refactories|A<</row>>
+<<row>>162|Refineries|A<</row>>
+<<row>>163|Retailing|A<</row>>
+<<row>>164|Reverse Repo|A<</row>>
+<<row>>165|Sanity Ware|A<</row>>
+<<row>>166|Scooters|A<</row>>
+<<row>>167|Security|A<</row>>
+<<row>>168|Services|A<</row>>
+<<row>>169|Shipping|A<</row>>
+<<row>>170|Soda|A<</row>>
+<<row>>171|Software|A<</row>>
+<<row>>172|Speciality Chemicals|A<</row>>
+<<row>>173|Spinning Cotton|A<</row>>
+<<row>>174|Steel|A<</row>>
+<<row>>175|Steel Products|A<</row>>
+<<row>>176|Stock Broking|A<</row>>
+<<row>>177|Sugar|A<</row>>
+<<row>>178|Tea|A<</row>>
+<<row>>179|Technology|A<</row>>
+<<row>>180|Telecom|A<</row>>
+<<row>>181|Testing Facilities|A<</row>>
+<<row>>182|Textiles|A<</row>>
+<<row>>183|Tobacco|A<</row>>
+<<row>>184|Tractors|A<</row>>
+<<row>>185|Trading|A<</row>>
+<<row>>186|Training|A<</row>>
+<<row>>187|Transport|A<</row>>
+<<row>>188|Travel|A<</row>>
+<<row>>189|Treasury Bill|A<</row>>
+<<row>>190|Tyres|A<</row>>
+<<row>>191|Unlisted|A<</row>>
+<<row>>192|Utilities|A<</row>>
+<<row>>193|Valves & Components|A<</row>>
+<<row>>194|Vehicle Trans. Sys.|A<</row>>
+<<row>>195|Warrants|A<</row>>
+<<eof>>
