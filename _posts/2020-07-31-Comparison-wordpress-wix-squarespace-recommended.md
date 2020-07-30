@@ -3,8 +3,7 @@
 
 ---
 
-<h1 id="comparison-of-wordpress-wix-squarespace---recommended-choices">Comparison of Wordpress Wix Squarespace - Recommended choices</h1>
-<p>I want to simplify the process of decision making while choosing a branding site tool . Everytime ,  marketing teams are coming up saying , “this tool is good for building quick site”  . I get it. we are not going to propose a tool which is easy for you or your developer.  Based on the business type and their short term &amp; long term strategy, pick the tool .  Below information will help for any type of business.</p>
+<p>I want to simplify the process of decision making while choosing a branding site tool . Every time ,  marketing teams are coming up saying , “this tool is good for building quick site”  . I get it. we are not going to propose a tool which is easy for you or your developer.  Based on the business type and their short term &amp; long term strategy, pick the tool .  Below information will help for any type of business.</p>
 
 <table>
 <thead>
@@ -102,7 +101,7 @@
 <td>One time activity</td>
 </tr>
 </tbody>
-</table><p>Every usecase is unique and based on the short term  &amp; long term needs , we should be choosing the suitable techstack for your business.<br>
+</table><p>Every usecase is unique and based on the short term  &amp; long term needs , we should be choosing the suitable tech stack for your business.<br>
 There are few more factors are being involved.</p>
 <ul>
 <li>Types of audience for your business.</li>
