@@ -27,9 +27,6 @@ Something which can be visualized as a matrix . (Ideally , we require cube kind 
 |Reload config with zero outage| Yes|NA|Yes|Yes | Yes|Yes|
 
 Take a decision based on your budget or already existing relationship with the product tools.
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg1ODg4ODJdfQ==
+eyJoaXN0b3J5IjpbLTE0NzQ1ODE5MzBdfQ==
 -->
