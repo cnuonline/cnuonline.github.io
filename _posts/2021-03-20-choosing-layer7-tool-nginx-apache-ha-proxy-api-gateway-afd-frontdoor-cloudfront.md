@@ -13,8 +13,8 @@ Something which can be visualized as a matrix . (Ideally , we require cube kind 
 | Traffic Route| Yes(/images,/html.) |Yes-Route to corresponding cluster| Not Required|Yes|Yes|Yes|
 | UnAuthorized Check (Token validate) | Yes  |Yes- precheck at Layer 4| Optional |Yes|Yes|Yes|
 
+## Now find out the possible tools which has opensource & enterprise version support by doing some due-diligence.
 
-Possible tools which has opensource & enterprise version support.
 |  | Nginx |Apache|HA Proxy| API Gateway|Azure Frontdoor|AWS CloudFront|
 |--|--|--|--|--|--|--|
 |Opensource & Free| Yes (only few features) |Yes |Yes |Free (service binding- Long Term contract)| Yes (service binding- Long Term contract) |Yes  (service binding- Long Term contract)|
@@ -25,10 +25,11 @@ Possible tools which has opensource & enterprise version support.
 |Reverse proxy support| Yes |Yes |Yes |Yes | NA |NA|
 |Throughput| High |Low|High |Yes | High |High |
 |Reload config with zero outage| Yes|NA|Yes|Yes | Yes|Yes|
+
 Take a decision based on your budget or already existing relationship with the product tools.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQwNDYzNjNdfQ==
+eyJoaXN0b3J5IjpbLTE5MTg1ODg4ODJdfQ==
 -->
