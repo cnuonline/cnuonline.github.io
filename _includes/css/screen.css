@@ -64,6 +64,16 @@ a:visited {
 table {
   font-size: inherit;
   font: 100%;
+  border-collapse: collapse;
+    border-spacing: 0;
+    border:2px solid #ff0000;
+}
+th{
+    border:2px solid #C6C6C6;
+}
+
+td{
+    border:1px solid #C6C6C6;
 }
 
 img {
