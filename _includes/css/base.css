@@ -84,9 +84,9 @@
 	small { font-size: 80%; }
 
 /*	Blockquotes  */
-	blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #777; font-style: italic; }
+	blockquote, blockquote p { font-size: 20px; line-height: 24px; color: #777; font-style: italic; }
 	blockquote { margin: 0px; padding: 0px 20px 0 15px; border-left: 2px solid #ddd; }
-	blockquote cite { display: block; font-size: 12px; color: #555; }
+	blockquote cite { display: block; font-size: 16px; color: #555; }
 	blockquote cite:before { content: "\2014 \0020"; }
 	blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color: {{ site.colors.highlight }}; }
 
@@ -225,7 +225,7 @@
 		border-width: 1px 1px 0 0;
 		margin: 0;
 		background: #f5f5f5;
-		font-size: 13px; }
+		font-size: 14px; }
 	ul.tabs li a.active {
 		background: #fff;
 		height: 30px;
@@ -290,7 +290,7 @@
 		-moz-border-radius: 2px;
 		-webkit-border-radius: 2px;
 		border-radius: 2px;
-		font: 13px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font: 14px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #777;
 		margin: 0;
 		width: 210px;
@@ -315,7 +315,7 @@
 	legend {
 		display: block;
 		font-weight: bold;
-		font-size: 13px;  }
+		font-size: 14px;  }
 	select {
 		width: 220px; }
 	input[type="checkbox"] {
@@ -323,7 +323,7 @@
 	label span,
 	legend span {
 		font-weight: normal;
-		font-size: 13px;
+		font-size: 14px;
 		color: #444; }
 
 /* #Misc
